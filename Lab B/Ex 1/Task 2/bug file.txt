@@ -1,0 +1,6 @@
+when we see virtual network there is no virtual network 20533E0201-vnet
+so i cant navigate to the 20533E0201-vnet virtual network blade.
+but there is another virtual network 
+20533E0203-vnet 
+20533E0204-vnet 
+20533E0205-vnet then I do my further task with that network
